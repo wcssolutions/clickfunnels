@@ -1,2 +1,2 @@
 # clickfunnels
-Clickfunnels Scripts
+This contains scripts that can be used with Clickfunnels
